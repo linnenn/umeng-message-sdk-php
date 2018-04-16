@@ -1,6 +1,6 @@
 {
     "minimum-stability": "dev",
     "require": {
-        "sinkcup/umeng-message-sdk-php": "*"
+        "linnenn/umeng-message-sdk-php": "*"
     }
 }

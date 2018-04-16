@@ -24,4 +24,3 @@ $r = $o->sendLbsNotification($data);
 var_dump($r);
  
 //其他功能的使用方法：请参考 tests/
-?>
